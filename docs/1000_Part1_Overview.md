@@ -6,4 +6,5 @@ permalink: /overview
 has_children: true
 has_toc: true
 ---
-<p style="text-align: center; font-size: xx-large">Part 1: An Overview of Digital Media</p>
+<p style="text-align: center; font-size: xx-large; font-weight: bold">Part 1: An Overview of Digital Media</p>
+
