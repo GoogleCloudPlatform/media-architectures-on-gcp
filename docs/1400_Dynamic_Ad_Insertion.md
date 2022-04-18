@@ -59,3 +59,6 @@ http://media.example.com/fileSequence7803.ts
 #EXTINF:3,
 http://media.example.com/fileSequence7804.ts
 ```
+The above manifest is provided to the ad server, which interprets
+the cue-out and cue-in markers and replaces the content between them
+with ads of the desired duration and profile like the following:
