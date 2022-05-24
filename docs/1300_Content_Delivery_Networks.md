@@ -14,7 +14,7 @@ has_toc: false
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 Content Delivery Networks (CDNs) cache frequently used content physically near the target
 consumers to reduce the latency in delivering that content and improving overall user experience.

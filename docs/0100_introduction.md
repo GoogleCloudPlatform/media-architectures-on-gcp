@@ -18,7 +18,7 @@ has_toc: false
 ## How this book is organized
 This book is written in two largely independent parts.
 
-The first part, “An Overview of Digital Media” is an overview of key concepts in digital and cloud-based media delivery.
+The first part, “**An Overview of Digital Media**” is an overview of key concepts in digital and cloud-based media delivery.
 This section is to help individuals new to the world of digital media get a high level understanding of the
 key concepts of digital media. This section is not a deep dive into actual encoding technologies, and the systems and
 optimizations of digital encoding and transcoding: there is already an extensive library of those books available.
@@ -26,9 +26,14 @@ The overview section seeks to introduce non-media architects to the most importa
 can understand the ideas being expressed by their media-centric colleagues. A seasoned media practitioner can safely
 skip the first part of the book and go directly to the second part.
 
-The second part, “Google Cloud for Media” is for media and non-media architects who are looking to operate their
-digital media stacks in the cloud. This section goes into detail about specifics of Google Cloud’s platform and its
-suitability for various media use cases, and how various architectures assist in achieving specific outcomes.
+The second part, “**Google Cloud for Media**” is for media and non-media architects who are looking to operate their
+digital media stacks in the cloud. This section introduces the key features of Google Cloud and
+the wider Google ecosystem that are important for media use cases.
+
+The third part, "**Media Architectures on Google Cloud**", goes into detail about
+how architectures build on Google Cloud assist in achieving specific outcomes for
+a wide variety of media use cases. In some ways, this is the most interesting
+section since the goal is to keep it continuously evolving with new solutions.
 
 ## Open sourcing
 This book initially started out as a short explainer for architects new to the media space. Over time, the document
