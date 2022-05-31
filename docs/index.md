@@ -38,5 +38,9 @@ The choice of releasing as an OSS document on GitHub is to ensure that this
 content doesn't stagnate, and is continuously updated with feedback from the
 community, and hopefully, with their contributions too!
 
+This is intended to be a living document, so please feel free to submit
+comments, suggestions, file bugs, and even contribute to the content
+at the [Media Architectures On GCP](https://github.com/GoogleCloudPlatform/media-architectures-on-gcp) repo!
+
 
 

@@ -2,7 +2,7 @@
 layout: default
 title: Media Formats
 nav_order: 1200
-permalink: /mediaformats
+permalink: /mediaformats.html
 has_children: false
 parent: Overview of Digital Media
 has_toc: false

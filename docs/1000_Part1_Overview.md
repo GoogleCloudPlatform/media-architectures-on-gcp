@@ -2,7 +2,7 @@
 layout: default
 title: Overview of Digital Media
 nav_order: 1000
-permalink: /overview
+permalink: /overview.html
 has_children: true
 has_toc: true
 ---

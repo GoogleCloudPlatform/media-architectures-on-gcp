@@ -2,7 +2,7 @@
 layout: default
 title: Content Delivery Networks
 nav_order: 1300
-permalink: /cdns
+permalink: /cdns.html
 has_children: false
 parent: Overview of Digital Media
 has_toc: false

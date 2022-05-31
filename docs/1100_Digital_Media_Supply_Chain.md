@@ -2,7 +2,7 @@
 layout: default
 title: Digital Media Supply Chain
 nav_order: 1100
-permalink: /dmsc
+permalink: /dmsc.html
 has_children: false
 parent: Overview of Digital Media
 has_toc: false

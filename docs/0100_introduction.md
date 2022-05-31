@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 0100
-permalink: /introduction
+permalink: /introduction.html
 has_children: false
 has_toc: false
 ---
@@ -43,10 +43,6 @@ document with customers.
 With that in mind, it seemed that open sourcing the content was the best thing to do: it would allow the largest group
 of individuals to utilize the material, and it would remove all the complexity of access and acquisition. It seemed
 like the right thing to do.
-
-This is intended to be a living document, so please feel free to submit
-comments, suggestions, file bugs, and even contribute to the content
-at the [Media Architectures On GCP](https://github.com/GoogleCloudPlatform/media-architectures-on-gcp) repo!
 
 ## Open Source License
 ```text

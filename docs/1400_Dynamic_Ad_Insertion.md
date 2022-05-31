@@ -2,7 +2,7 @@
 layout: default
 title: Dynamic Ad Insertion
 nav_order: 1400
-permalink: /dai
+permalink: /dai.html
 has_children: false
 parent: Overview of Digital Media
 has_toc: false
